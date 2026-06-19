@@ -1,8 +1,8 @@
-# 📚 Guía para Estudiantes Universitarios
+# Guía para Estudiantes Universitarios
 
 Bienvenido a la **Guía para Estudiantes Universitarios**, un sitio de documentación creado con **MkDocs** y **Material for MkDocs** para recopilar estrategias, consejos y recursos que ayuden a mejorar el desempeño académico.
 
-## 🎯 Objetivo
+## Objetivo
 
 Proporcionar información práctica sobre:
 
@@ -11,7 +11,7 @@ Proporcionar información práctica sobre:
 * Recursos digitales para estudiantes.
 * Hábitos que favorecen el aprendizaje.
 
-## 📖 Contenido
+## Contenido
 
 | Sección             | Descripción                                                     |
 | ------------------- | --------------------------------------------------------------- |
@@ -19,7 +19,7 @@ Proporcionar información práctica sobre:
 | Gestión del Tiempo  | Estrategias para planificar actividades académicas.             |
 | Recursos Académicos | Herramientas y plataformas útiles para estudiantes.             |
 
-## 🚀 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 * MkDocs
 * Material for MkDocs
