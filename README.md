@@ -28,7 +28,9 @@ Proporcionar información práctica sobre:
 
 ## 🌐 Sitio publicado
 
-Accede a la documentación publicada desde GitHub Pages.
+Accede a la documentación publicada desde GitHub Pages mediante el siguiente enlace:
+
+[Guía para Estudiantes Universitarios](https://elkelvinrivas.github.io/guia-estudiantes-mkdocs/)
 
 ## 👨‍🎓 Autor
 
