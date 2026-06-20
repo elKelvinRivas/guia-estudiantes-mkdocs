@@ -42,15 +42,11 @@ Algunas prácticas que pueden ayudarte son:
 
 !!! tip "Consejo"
 
-```
-Planificar pequeñas sesiones de estudio durante la semana suele ser más efectivo que concentrar todo el trabajo en un solo día.
-```
+    Planificar pequeñas sesiones de estudio durante la semana suele ser más efectivo que concentrar todo el trabajo en un solo día.
 
 !!! warning "Evita esto"
 
-```
-Dejar tareas y exámenes para el último momento suele aumentar el estrés y disminuir la calidad del aprendizaje.
-```
+    Dejar tareas y exámenes para el último momento suele aumentar el estrés y disminuir la calidad del aprendizaje.
 
 ## Relación con las técnicas de estudio
 

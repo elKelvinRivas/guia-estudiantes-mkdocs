@@ -42,9 +42,7 @@ La siguiente comparación muestra la diferencia entre un método de estudio poco
 
 !!! note "Importante"
 
-```
-Cada estudiante aprende de forma diferente. Experimenta con varias técnicas hasta encontrar la que mejor se adapte a ti.
-```
+    Cada estudiante aprende de forma diferente. Experimenta con varias técnicas hasta encontrar la que mejor se adapte a ti.
 
 ## Más información
 
