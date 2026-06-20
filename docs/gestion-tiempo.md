@@ -56,6 +56,8 @@ Dejar tareas y exámenes para el último momento suele aumentar el estrés y dis
 
 Una vez organizada tu semana, puedes aplicar métodos como Pomodoro, Active Recall, Repetición Espaciada o Técnica Feynman para aprovechar mejor el tiempo disponible.
 
+## Más información
+
 👉 Consulta la sección de [Técnicas de Estudio](tecnicas-estudio.md).
 
 👉 Consulta la sección de [Recursos](recursos.md).

@@ -14,6 +14,8 @@
 
     Utiliza herramientas digitales para organizar tus tareas y documentos.
 
+## Más información
+
 👉 Consulta la sección de [Técnicas de Estudio](tecnicas-estudio.md).
 
 👉 Consulta la sección de [Gestión de tiempo](gestion-tiempo.md).
